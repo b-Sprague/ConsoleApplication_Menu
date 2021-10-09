@@ -1,0 +1,21 @@
+c:\users\usa\documents\visual studio 2015\Projects\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.exe.config
+c:\users\usa\documents\visual studio 2015\Projects\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.exe
+c:\users\usa\documents\visual studio 2015\Projects\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.pdb
+c:\users\usa\documents\visual studio 2015\Projects\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.csprojResolveAssemblyReference.cache
+c:\users\usa\documents\visual studio 2015\Projects\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.exe
+c:\users\usa\documents\visual studio 2015\Projects\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.pdb
+C:\Users\USA\Desktop\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.exe.config
+C:\Users\USA\Desktop\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.exe
+C:\Users\USA\Desktop\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.pdb
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.exe.config
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.exe
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.pdb
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.exe
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.pdb
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.csprojResolveAssemblyReference.cache
+C:\Users\Brennan\Documents\Programming Stuff\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.exe.config
+C:\Users\Brennan\Documents\Programming Stuff\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.exe
+C:\Users\Brennan\Documents\Programming Stuff\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.pdb
+C:\Users\Brennan\Documents\Programming Stuff\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.exe
+C:\Users\Brennan\Documents\Programming Stuff\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\bin\Debug\ConsoleApp_Menu.pdb
+C:\Users\Brennan\Documents\Programming Stuff\Video_Game_Projects\Console App\ConsoleApp_Menu\ConsoleApp_Menu\obj\Debug\ConsoleApp_Menu.csprojResolveAssemblyReference.cache
